@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<cities
+xmlns="http://www.myshema.by/CitiesSchema" 
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+xsi:schemaLocation="http://www.myshema.by/CitiesSchema CitiesSchema">
+	<letter name="a">
+		<city>Amsterdam</city>
+		<city>Agra</city>
+		<city>Ankara</city>
+	</letter>
+	<letter name="b">
+		<city>Baghdat</city>
+		<city>Brest</city>
+		<city>Bangalore</city>
+	</letter>
+	<letter name="c">
+		<city>Chicago</city>
+		<city>Chelyabinsk</city>
+		<city>Chita</city>
+	</letter>
+	<letter name="d">
+		<city>Dakar</city>
+		<city>Dallas</city>
+		<city>Dublin</city>
+	</letter>
+	<letter name="e">
+		<city>Edinburg</city>
+		<city>Eilat</city>
+		<city>Eindhoven</city>
+	</letter>
+	<letter name="f">
+		<city>Frankfurt</city>
+		<city>Florence</city>
+		<city>Fes</city>
+	</letter>
+	<letter name="g">
+		<city>Geneva</city>
+		<city>Gibraltar Town</city>
+		<city>Guatemala City</city>
+	</letter>
+	<letter name="h">
+		<city>Hong Kong</city>
+		<city>Helsinki</city>
+		<city>Hanoi</city>
+	</letter>
+	<letter name="i">
+		<city>Istanbul</city>
+		<city>Irving</city>
+		<city>Inkster</city>
+	</letter>
+	<letter name="j">
+		<city>Jakarta</city>
+		<city>Jerusalem</city>
+		<city>Johannesburg</city>
+	</letter>
+	<letter name="k">
+		<city>Kiev</city>
+		<city>Kabul</city>
+		<city>Karachi</city>
+	</letter>
+	<letter name="l">
+		<city>London</city>
+		<city>Los Angeles</city>
+		<city>Lisbon</city>
+	</letter>
+	<letter name="m">
+		<city>Marrakesh</city>
+		<city>Moscow</city>
+		<city>Mumbai</city>
+	</letter>
+	<letter name="n">
+		<city>New York</city>
+		<city>Nassau</city>
+		<city>Nicozia</city>
+	</letter>
+	<letter name="o">
+		<city>Oslo</city>
+		<city>Ottawa</city>
+		<city>Oxford</city>
+	</letter>
+	<letter name="p">
+		<city>Paris</city>
+		<city>Prague</city>
+		<city>Pnompenh</city>
+	</letter>
+	<letter name="q">
+		<city>Quito</city>
+		<city>Quincy</city>
+		<city>Queens</city>
+	</letter>
+	<letter name="r">
+		<city>Riga</city>
+		<city>Rome</city>
+		<city>Rio de Janeiro</city>
+	</letter>
+	<letter name="s">
+		<city>Saint Petesburg</city>
+		<city>San Francisco</city>
+		<city>Sofia</city>
+	</letter>
+	<letter name="t">
+		<city>Tallin</city>
+		<city>Toronto</city>
+		<city>Tokyo</city>
+	</letter>
+	<letter name="u">
+		<city>Ulan Bator</city>
+		<city>Ufa</city>
+		<city>Ustyug</city>
+	</letter>
+	<letter name="v">
+		<city>Venice</city>
+		<city>Vienna</city>
+		<city>Vilnius</city>
+	</letter>
+	<letter name="w">
+		<city>Warsaw</city>
+		<city>Washington</city>
+		<city>Willington</city>
+	</letter>
+	<letter name="x">
+		<city>Xenia</city>
+		<city>Xanten</city>
+		<city>Xanthi</city>
+	</letter>
+	<letter name="y">
+		<city>Yerevan</city>
+		<city>Yaounde</city>
+		<city>Yekaterinburg</city>
+	</letter>
+	<letter name="z">
+		<city>Zagreb</city>
+		<city>Zakopane</city>
+		<city>Zarinsk</city>
+	</letter>	
+</cities>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	targetNamespace="http://www.myshema.by/CitiesSchema" xmlns:tns="http://www.myshema.by/CitiesSchema"
+	elementFormDefault="qualified">
+	<xs:complexType name="cities">
+		<xs:sequence>
+			<xs:element name="letter" type="tns:letter" maxOccurs="unbounded"></xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	
+	<xs:complexType name="letter">
+		<xs:sequence>
+			<xs:element name="city" type="xs:string" maxOccurs="unbounded"></xs:element>
+		</xs:sequence>
+		<xs:attribute name="name" type="xs:string" />
+	</xs:complexType>
+</xs:schema>
